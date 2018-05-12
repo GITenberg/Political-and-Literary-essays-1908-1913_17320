@@ -1,0 +1,41 @@
+_repo: Political-and-Literary-essays-1908-1913_17320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cromer, Evelyn Baring, Earl of
+    alias: Baring, Evelyn
+    birthdate: 1841
+    deathdate: 1917
+    gutenberg_agent_id: '7304'
+    url: http://www.gutenberg.org/2009/agents/7304
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Earl_of_Cromer
+description: ''
+gutenberg_issued: '2005-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17320'
+  lccn: '14030274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature'
+- !lcsh 'History'
+- !lcsh 'Colonies'
+- !lcsh 'Colonization'
+- !lcc 'AC'
+tableOfContents: The government of subject races -- Translation and paraphrase --
+  Sir Alfred Lyall -- Army reform -- The international aspects of free trade -- China
+  -- The capitulations in Egypt -- Disraeli -- Russian romance -- The writing of history
+  -- The Greek anthology -- Lord Milner and party -- The French in Algeria -- The
+  Ottoman empire -- Wellingtoniana -- Burma -- A pseudo-hero of the revolution --
+  The future of the classics -- An Indian idealist -- The fiscal question in India
+  -- Rome and municipal government -- A royal philosopher -- Ancient art and ritual
+  -- Portuguese slavery -- England and Islam -- Some Indian problems -- The Napoleon
+  of Taine -- Songs, patriotic and national -- Songs, naval and military.
+title: Political and Literary essays, 1908-1913
+url: http://www.gutenberg.org/ebooks/17320
