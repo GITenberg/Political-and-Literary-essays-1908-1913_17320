@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7304
     wikipedia: http://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Earl_of_Cromer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17320#Political-and-Literary-essays-1908-1913
 gutenberg_issued: '2005-12-16'
 gutenberg_type: Text
 identifiers:
